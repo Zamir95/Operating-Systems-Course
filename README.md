@@ -7,3 +7,6 @@ etc...(depending on your package manager)
 
 next, run `make` in the directory where you placed the code and makefile in to build the project
 
+
+Project was to make a alarm that sets, veiws, cancels and changes times for alamrs that were set.
+
