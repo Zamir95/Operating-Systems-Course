@@ -1,1 +1,2 @@
 # Operating-Systems-Course
+Alarm Code that gives you certain times of when you need to go to certain placeas. Ex: Alarm> Start_Alarm(2345): 50 Will meet you at Grandma’s house at 6 pm. Ex2: Alarm> Change_Alarm(2345): 80 Will meet you at Grandma’s house later at 8 pm. Ex2 makes a change to the alarm that was set and sets a new alarm time for going to a certain place. Ex3 Alarm> Cancel_Alarm(2345) cancels a certain alarm that was set. Ex4 Alarm> View_Alarms lets user view the alarms that were set.
